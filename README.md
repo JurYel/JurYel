@@ -16,7 +16,7 @@ An analytical and goal-driven individual with a strong passion towards developin
 [<img align="left" alt="LinkedIn" width="80" src="https://raw.githubusercontent.com/JurYel/JurYel/master/linkedin.ico" />]( https://www.linkedin.com/in/juriel-botoy-b9b245206/)
 [<img align="left" alt="Instagram" width="80" src="https://github.com/JurYel/JurYel/blob/master/instagram-logo.PNG" />](https://www.instagram.com/jurieyel/)
 [<img align="left" alt="Gmail" width="80" src="https://github.com/JurYel/JurYel/blob/master/gmail-logo.PNG" />](botoyjuriel@gmail.com)
-[<img align="left" alt="Kaggle" width="80" src="https://github.com/JurYel/JurYel/blob/master/Kaggle_logo.PNG" />](https://www.kaggle.com/juryel)
+[<img align="left" alt="Kaggle" width="80" src="https://github.com/JurYel/JurYel/blob/master/Kaggle_logo.png" />](https://www.kaggle.com/juryel)
 <br />
 
 ### Languages and Tools
